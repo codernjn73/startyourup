@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+
+}
+
+/* Navigation Bar Styling */
+
+.navbar{
+    display: flex;
+    background-color: #ef233c;
+    height: 5rem;
+    width: 1044rem;
+    justify-content: space-evenly;
+}
+
+/* Box1 Styling */
+#logo-image{  /*logo-image styling*/
+    height: 4rem;
+    width: 12rem;
+    margin: 0.6rem;
+}
+
+/* Box2 Styling */
+.box2{
+    display: flex;
+    height: 3rem;
+    width: 15rem;
+    background-color: aquamarine;
+}
